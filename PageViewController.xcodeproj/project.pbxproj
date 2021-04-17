@@ -13,6 +13,7 @@
 		79FD1F17262A5E34007168C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79FD1F15262A5E34007168C1 /* Main.storyboard */; };
 		79FD1F19262A5E3A007168C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79FD1F18262A5E3A007168C1 /* Assets.xcassets */; };
 		79FD1F1C262A5E3A007168C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79FD1F1A262A5E3A007168C1 /* LaunchScreen.storyboard */; };
+		79FD1F25262A5F75007168C1 /* PageControllerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79FD1F24262A5F75007168C1 /* PageControllerVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		79FD1F18262A5E3A007168C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		79FD1F1B262A5E3A007168C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		79FD1F1D262A5E3A007168C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79FD1F24262A5F75007168C1 /* PageControllerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControllerVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				79FD1F18262A5E3A007168C1 /* Assets.xcassets */,
 				79FD1F1A262A5E3A007168C1 /* LaunchScreen.storyboard */,
 				79FD1F1D262A5E3A007168C1 /* Info.plist */,
+				79FD1F24262A5F75007168C1 /* PageControllerVC.swift */,
 			);
 			path = PageViewController;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				79FD1F14262A5E34007168C1 /* ViewController.swift in Sources */,
 				79FD1F10262A5E34007168C1 /* AppDelegate.swift in Sources */,
 				79FD1F12262A5E34007168C1 /* SceneDelegate.swift in Sources */,
+				79FD1F25262A5F75007168C1 /* PageControllerVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
